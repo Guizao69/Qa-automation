@@ -1,7 +1,7 @@
 package com.Basicjavaprograms;
 
 public class Hai1 {
-
+//Method of hiding in java
 	public static void m1() {
 		int password= 292828;
 	
